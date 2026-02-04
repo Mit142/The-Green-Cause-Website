@@ -9,12 +9,12 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const expectedSlides = [
-  "/slideshow/one.jpg",
-  "/slideshow/two.jpg",
-  "/slideshow/three.jpg",
-  "/slideshow/four.png",
-  "/slideshow/five.png",
-  "/slideshow/six.png"
+  "/slideshow/one.png",
+  "/slideshow/two.JPG",
+  "/slideshow/three_resize.jpg",
+  "/slideshow/four_resize.png",
+  "/slideshow/five_resize.png",
+  "/slideshow/six_resize.png"
 ];
 
 export default function ImageCarousel() {
