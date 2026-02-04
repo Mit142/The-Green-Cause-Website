@@ -14,6 +14,7 @@ const expectedSlides = [
   "/slideshow/three.jpg",
   "/slideshow/four.png",
   "/slideshow/five.png",
+  "/slideshow/six.png"
 ];
 
 export default function ImageCarousel() {
